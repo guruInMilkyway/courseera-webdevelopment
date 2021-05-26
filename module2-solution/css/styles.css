@@ -2,10 +2,14 @@
 .row {
   width: 90%;
   text-align: center;
+  font-family: Helvetica;
+    font-size: 100%
 }
 
 div.h1 {
     text-align: center;
+    font-family: Helvetica;
+    font-size: 175%
 }
 
 p.ParaClass {
@@ -27,6 +31,8 @@ span.ChickenMenu {
     padding:0px;
     border: 1px solid black;
     margin: 0px;
+    font-family: Helvetica;
+    font-size: 125%
   }
 
 span.BeefMenu {
@@ -39,6 +45,8 @@ span.BeefMenu {
     padding:0px;
     border: 1px solid black;
     margin: 0px;
+    font-family: Helvetica;
+    font-size: 125%
 }
 
 span.SushiMenu {
@@ -51,6 +59,8 @@ span.SushiMenu {
     padding:0px;
     border: 1px solid black;
     margin: 0px;
+    font-family: Helvetica;
+    font-size: 125%
 }
 
 /*
@@ -74,10 +84,11 @@ p {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     width: 90%;
-    border: 3px solid black;
-    padding: 2px;
+    border: 1px solid black;
+    padding: 3px;
     background-color: grey;
-    margin: 20px;
+    margin: 2%;
+    font-family: Helvetica;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -122,10 +133,11 @@ p {
   .col-td-1, .col-td-2, .col-td-3, .col-td-4, .col-td-5, .col-td-6, .col-td-7, .col-td-8, .col-td-9, .col-td-10, .col-td-11, .col-td-12 {
     float: left;
     width: 90%;
-    border: 3px solid black;
-    padding: 2px;
+    border: 1px solid black;
+    padding: 3px;
     background-color: grey;
-    margin: 20px;
+    margin: 3.5%;
+    font-family: Helvetica;
   }
   .col-td-1 {
     width: 8.33%;
@@ -143,7 +155,7 @@ p {
     width: 41.66%;
   }
   .col-td-6 {
-    width: 50%;
+    width: 49%;
   }
   .col-td-7 {
     width: 58.33%;
@@ -170,10 +182,11 @@ p {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
     width: 90%;
-    border: 3px solid black;
-    padding: 2px;
+    border: 1px solid black;
+    padding: 3px;
     background-color: grey;
-    margin: 20px;
+    margin: 2%;
+    font-family: Helvetica;
   }
   .col-md-1 {
     width: 8.33%;
